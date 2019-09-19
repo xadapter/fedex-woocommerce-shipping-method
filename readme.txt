@@ -1,5 +1,5 @@
 === Fedex WooCommerce Shipping Method Plugin ===
-Contributors: WooForce
+Contributors: PluginHive
 Donate link: 
 Tags: Fedex, Fedex Shipping, Shipping rates, shipping method, shipping extension,calculator,shipping calculator, tracking, postage, Shipping, WooCommerce
 Requires at least: 3.0.1
